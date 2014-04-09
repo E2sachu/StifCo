@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvVille"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ville" />
+
+    <TextView
+        android:id="@+id/tvLieu"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="Lieu" />
+    
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="date" />
+
+</LinearLayout>

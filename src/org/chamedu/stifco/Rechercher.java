@@ -123,7 +123,7 @@ public class Rechercher extends Activity implements OnClickListener, OnItemSelec
 								iResultatRecherche.putExtra("liste", json);
 								startActivityForResult( iResultatRecherche,10 );
 							} else {
-								Toast.makeText(Rechercher.this, "Aucune proposition n\'a ï¿½tï¿½ faite.", Toast.LENGTH_LONG).show();
+								Toast.makeText(Rechercher.this, "Aucune proposition n\'a été faite.", Toast.LENGTH_LONG).show();
 							}					
 						}
 					});

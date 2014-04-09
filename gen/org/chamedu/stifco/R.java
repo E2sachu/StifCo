@@ -40,44 +40,46 @@ public final class R {
         public static final int logo=0x7f020005;
     }
     public static final class id {
-        public static final int actvGare=0x7f0b0019;
-        public static final int btChangeDate=0x7f0b000a;
-        public static final int btChangeHeure=0x7f0b0013;
-        public static final int btMoins=0x7f0b0016;
-        public static final int btOffre=0x7f0b0017;
-        public static final int btPlus=0x7f0b0018;
+        public static final int actvGare=0x7f0b001a;
+        public static final int btChangeDate=0x7f0b000d;
+        public static final int btChangeHeure=0x7f0b0014;
+        public static final int btMoins=0x7f0b0017;
+        public static final int btOffre=0x7f0b0018;
+        public static final int btPlus=0x7f0b0019;
         public static final int etEmail=0x7f0b0006;
-        public static final int etVille=0x7f0b000b;
-        public static final int gare=0x7f0b001b;
+        public static final int etVille=0x7f0b000e;
+        public static final int gare=0x7f0b001c;
+        public static final int listPropositions=0x7f0b001e;
         public static final int logoidf=0x7f0b0001;
-        public static final int menu_suppcompte=0x7f0b001e;
+        public static final int menu_suppcompte=0x7f0b001f;
         public static final int proposer=0x7f0b0000;
-        public static final int propositions=0x7f0b001d;
-        public static final int rbEglise=0x7f0b0011;
-        public static final int rbMairie=0x7f0b0010;
-        public static final int rbPoste=0x7f0b000f;
+        public static final int rbEglise=0x7f0b0012;
+        public static final int rbMairie=0x7f0b0011;
+        public static final int rbPoste=0x7f0b0010;
         public static final int rechercher=0x7f0b0002;
-        public static final int rgLieu=0x7f0b000e;
-        public static final int search=0x7f0b001c;
-        public static final int spinnerMois=0x7f0b001a;
-        public static final int tsPlaces=0x7f0b0014;
+        public static final int rgLieu=0x7f0b000f;
+        public static final int search=0x7f0b001d;
+        public static final int spinnerMois=0x7f0b001b;
+        public static final int tsPlaces=0x7f0b0015;
         public static final int tvAcceptation=0x7f0b0007;
-        public static final int tvDate=0x7f0b0009;
+        public static final int tvDate=0x7f0b000c;
         public static final int tvEmail=0x7f0b0003;
         public static final int tvExplications=0x7f0b0004;
-        public static final int tvGares=0x7f0b0015;
-        public static final int tvLaDate=0x7f0b0008;
-        public static final int tvLieu=0x7f0b000d;
-        public static final int tvPlaces=0x7f0b0012;
+        public static final int tvGares=0x7f0b0016;
+        public static final int tvId=0x7f0b000a;
+        public static final int tvLaDate=0x7f0b000b;
+        public static final int tvLieu=0x7f0b0009;
+        public static final int tvPlaces=0x7f0b0013;
         public static final int tvQuestion=0x7f0b0005;
-        public static final int tvVille=0x7f0b000c;
+        public static final int tvVille=0x7f0b0008;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int alertdialog_compte=0x7f030001;
-        public static final int proposer=0x7f030002;
-        public static final int rechercher=0x7f030003;
-        public static final int result=0x7f030004;
+        public static final int item_proposals=0x7f030002;
+        public static final int proposer=0x7f030003;
+        public static final int rechercher=0x7f030004;
+        public static final int result=0x7f030005;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
